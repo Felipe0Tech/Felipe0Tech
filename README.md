@@ -1,5 +1,5 @@
+<img src="https://i.imgur.com/oBEPS1w.jpeg">
 
-![BannerGIF](https://i.imgur.com/aUxpfxN.gif)
 
 ---
 
