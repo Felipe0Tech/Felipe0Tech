@@ -17,6 +17,13 @@
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <hr>
 
+### ⚙️ &nbsp;GitHub Analisis
+
+<p align="center">
+<a href="https://github.com/Felipe0Tech">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajedrecito&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Felipe0Tech&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </a>
 </p>
 </a>
