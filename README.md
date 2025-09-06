@@ -19,6 +19,9 @@
 
 ### ⚙️ &nbsp;GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Felipe0Tech&theme=dark&locale=es)](https://git.io/streak-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe0Tech&theme=dark&locale=es&layout=compact)
 </a>
 </a>
 </p>
